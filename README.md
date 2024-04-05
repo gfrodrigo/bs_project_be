@@ -1,4 +1,4 @@
-# bs Backend Project
+# BS Backend Project
 This is a backend of a test project
 
 Please first install the requirements:
