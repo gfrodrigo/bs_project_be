@@ -9,6 +9,9 @@ This project also has configured pytest, so you can run test with command:
 
 `pytest`
 
+To run the application
+`python manage.py runserver`
+
 The endpoint to validate the business credit is:
 
 http://localhost:8000/api/validate_credit/
