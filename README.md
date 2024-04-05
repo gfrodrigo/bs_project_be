@@ -5,7 +5,7 @@ Please first install the requirements:
 
 `pip install -r requirements.txt`
 
-This project also has configures pytest so you can run test with command:
+This project also has configured pytest, so you can run test with command:
 
 `pytest`
 
